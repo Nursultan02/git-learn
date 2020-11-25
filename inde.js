@@ -1,2 +1,3 @@
 console.log('Hello World');
 console.log('Hellooo from second Push!!!');
+console.log('OMG it fucking workss!!!');
